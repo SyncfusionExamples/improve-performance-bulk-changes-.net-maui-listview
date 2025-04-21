@@ -61,9 +61,9 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="*" />
 		<PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
-		<PackageReference Include="Syncfusion.Maui.ListView" Version="29.1.37" />
+		<PackageReference Include="Syncfusion.Maui.ListView" Version="*" />
 	</ItemGroup>
 
 </Project>
